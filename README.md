@@ -28,7 +28,6 @@ WGBS, MBD-seq, T7 demultiplexing, and methylation-based biomarker workflows on H
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Singularity](https://img.shields.io/badge/Singularity-1A1A2E?style=flat-square&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM%2FHPC-CC0000?style=flat-square&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
@@ -69,4 +68,4 @@ Outside of bioinformatics I build small, focused Android apps through
 
 ### Links
 
-[Website](https://fpmartinez10.github.io) · [LinkedIn](https://linkedin.com/in/felipe-perez-martinez-263a94206) · [Email](mailto:eriperules@gmail.com)
+[Website](https://fpmartinez10.github.io) · [LinkedIn](https://linkedin.com/in/felipe-perez-martinez-263a94206) · [Email](mailto:fpmartinez10@gmail.com)
