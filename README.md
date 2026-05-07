@@ -69,12 +69,6 @@ Outside of bioinformatics I build small, focused Android apps through
 
 ---
 
-### GitHub Stats
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpmartinez10&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
----
-
 ### Links
 
 [Website](https://fpmartinez10.github.io) · [LinkedIn](https://linkedin.com/in/felipe-perez-martinez-263a94206) · [Email](mailto:fpmartinez10@gmail.com)
