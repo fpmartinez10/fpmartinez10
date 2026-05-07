@@ -46,8 +46,8 @@ Developed at CRUK National Biomarker Centre.
 
 **[methylation-pipeline](https://github.com/fpmartinez10/methylation-pipeline)** — Nextflow DSL2 pipeline for
 whole-genome bisulfite sequencing: trimming, alignment (Bismark), CpG extraction, and DMR calling.
-Configurable for SLURM HPC and AWS Batch with Singularity containers.
-`Nextflow` `nf-core` `WGBS` `Bismark` `AWS`
+Configurable for SLURM HPC with Singularity containers.
+`Nextflow` `nf-core` `WGBS` `Bismark` `Singularity`
 
 ---
 
@@ -66,6 +66,12 @@ biomarker discovery.
 
 Outside of bioinformatics I build small, focused Android apps through
 [Focal Studio](https://focalstudio.github.io).
+
+---
+
+### GitHub Stats
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpmartinez10&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
