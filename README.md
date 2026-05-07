@@ -3,7 +3,9 @@
 Pipeline Engineer at [CRUK National Biomarker Centre](https://www.cruk.manchester.ac.uk/Our-Research/Cancer-Biomarker-Centre), Manchester.
 
 I design and maintain production Nextflow pipelines for epigenomics and cancer biomarker analysis —
-WGBS, MBD-seq, T7 demultiplexing, and methylation-based biomarker workflows on HPC and AWS infrastructure.
+WGBS, MBD-seq, T7 demultiplexing, and methylation-based biomarker workflows on HPC infrastructure.
+Previously at Prinses Máxima Centrum, building Snakemake metagenomics pipelines for gut and tumour
+microbiome research in paediatric brain tumours.
 
 ---
 
@@ -18,6 +20,7 @@ WGBS, MBD-seq, T7 demultiplexing, and methylation-based biomarker workflows on H
 **Epigenomics & NGS**
 
 ![Nextflow](https://img.shields.io/badge/Nextflow-1ABC9C?style=flat-square&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-3B7EBF?style=flat-square&logoColor=white)
 ![nf--core](https://img.shields.io/badge/nf--core-276DC3?style=flat-square&logoColor=white)
 ![Bismark](https://img.shields.io/badge/Bismark-4B5563?style=flat-square&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-3D9970?style=flat-square&logoColor=white)
