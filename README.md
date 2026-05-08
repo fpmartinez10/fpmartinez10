@@ -75,7 +75,7 @@ I work at the intersection of computational biology and software engineering —
 reproducible, containerised, and production-ready. My focus is DNA methylation in the context of cancer
 biomarker discovery.
 
-Outside of bioinformatics I build small, focused Android apps through
+Outside of bioinformatics I build small, focused mobile apps through
 [Focal Studio](https://focalstudio.github.io).
 
 ---
