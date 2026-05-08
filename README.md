@@ -21,6 +21,9 @@ microbiome research in paediatric brain tumours.
 
 ![Nextflow](https://img.shields.io/badge/Nextflow-1ABC9C?style=flat-square&logoColor=white)
 ![Snakemake](https://img.shields.io/badge/Snakemake-3B7EBF?style=flat-square&logoColor=white)
+![Kraken2](https://img.shields.io/badge/Kraken2-5C6BC0?style=flat-square&logoColor=white)
+![Bracken2](https://img.shields.io/badge/Bracken2-7B1FA2?style=flat-square&logoColor=white)
+![Bowtie2](https://img.shields.io/badge/Bowtie2-E65100?style=flat-square&logoColor=white)
 ![nf--core](https://img.shields.io/badge/nf--core-276DC3?style=flat-square&logoColor=white)
 ![Bismark](https://img.shields.io/badge/Bismark-4B5563?style=flat-square&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-3D9970?style=flat-square&logoColor=white)
@@ -44,10 +47,9 @@ Developed at CRUK National Biomarker Centre.
 
 ---
 
-**[methylation-pipeline](https://github.com/fpmartinez10/methylation-pipeline)** — Nextflow DSL2 pipeline for
-whole-genome bisulfite sequencing: trimming, alignment (Bismark), CpG extraction, and DMR calling.
-Configurable for SLURM HPC with Singularity containers.
-`Nextflow` `nf-core` `WGBS` `Bismark` `Singularity`
+**[MIMIC-tumor-microbiome-pipeline](https://github.com/fpmartinez10/MIMIC-tumor-microbiome-pipeline)** — Metagenomics and metatranscriptomics pipeline for gut microbiome profiling in pediatric brain tumor patients (MIMIC cohort).
+Covers human read removal (GRCh38 + CHM13), Kraken2 classification, Bracken2 abundance re-estimation, alpha/beta diversity analysis, and downstream R analysis across tumor subclasses.
+`Kraken2` `Bracken2` `Snakemake` `Metagenomics` `R`
 
 ---
 
