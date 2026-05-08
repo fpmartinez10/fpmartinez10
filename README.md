@@ -28,6 +28,8 @@ microbiome research in paediatric brain tumours.
 ![Bismark](https://img.shields.io/badge/Bismark-4B5563?style=flat-square&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-3D9970?style=flat-square&logoColor=white)
 ![samtools](https://img.shields.io/badge/samtools-555555?style=flat-square&logoColor=white)
+![BWA](https://img.shields.io/badge/BWA-00796B?style=flat-square&logoColor=white)
+![bcftools](https://img.shields.io/badge/bcftools-6A1B9A?style=flat-square&logoColor=white)
 
 **Infrastructure**
 
@@ -57,6 +59,13 @@ Covers human read removal (GRCh38 + CHM13), Kraken2 classification, Bracken2 abu
 Nextflow DSL2 skeleton workflows for SLURM HPC environments: executor config, per-process resource profiles,
 Singularity execution, and GitHub Actions CI.
 `Nextflow` `SLURM` `Singularity` `GitHub Actions`
+
+---
+
+**[lorgen-variant-calling-pipeline](https://github.com/fpmartinez10/lorgen-variant-calling-pipeline)** — Nextflow DSL2 pipeline for targeted DNA sequencing panels.
+BWA alignment, SAMtools deduplication, bcftools variant calling, and gnomAD AF filtering to produce rare-variant VCFs from paired-end FASTQ input.
+Refactored to nf-core-inspired structure with Docker and Singularity profiles.
+`Nextflow` `BWA` `bcftools` `gnomAD` `Docker` `Singularity`
 
 ---
 
