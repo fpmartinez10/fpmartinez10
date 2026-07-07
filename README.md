@@ -1,6 +1,6 @@
 ## Felipe P. Martinez
 
-Pipeline Engineer at [CRUK National Biomarker Centre](https://www.cruk.manchester.ac.uk/Our-Research/Cancer-Biomarker-Centre), Manchester.
+Senior Bioinformatician at [CRUK National Biomarker Centre](https://www.cruk.manchester.ac.uk/Our-Research/Cancer-Biomarker-Centre), Manchester.
 
 I design and maintain production Nextflow pipelines for epigenomics and cancer biomarker analysis —
 WGBS, MBD-seq, T7 demultiplexing, and methylation-based biomarker workflows on HPC infrastructure.
@@ -20,11 +20,11 @@ microbiome research in paediatric brain tumours.
 **Epigenomics & NGS**
 
 ![Nextflow](https://img.shields.io/badge/Nextflow-1ABC9C?style=flat-square&logoColor=white)
+![nf--core](https://img.shields.io/badge/nf--core-276DC3?style=flat-square&logoColor=white)
 ![Snakemake](https://img.shields.io/badge/Snakemake-3B7EBF?style=flat-square&logoColor=white)
 ![Kraken2](https://img.shields.io/badge/Kraken2-5C6BC0?style=flat-square&logoColor=white)
 ![Bracken2](https://img.shields.io/badge/Bracken2-7B1FA2?style=flat-square&logoColor=white)
 ![Bowtie2](https://img.shields.io/badge/Bowtie2-E65100?style=flat-square&logoColor=white)
-![nf--core](https://img.shields.io/badge/nf--core-276DC3?style=flat-square&logoColor=white)
 ![Bismark](https://img.shields.io/badge/Bismark-4B5563?style=flat-square&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-3D9970?style=flat-square&logoColor=white)
 ![samtools](https://img.shields.io/badge/samtools-555555?style=flat-square&logoColor=white)
@@ -75,8 +75,6 @@ I work at the intersection of computational biology and software engineering —
 reproducible, containerised, and production-ready. My focus is DNA methylation in the context of cancer
 biomarker discovery.
 
-Outside of bioinformatics I build small, focused mobile apps through
-[Focal Studio](https://focalstudio.github.io).
 
 ---
 
